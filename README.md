@@ -4,6 +4,8 @@ A simple weather app built using Node.js and Express as web framework. It makes 
 
 ![Home Page](https://github.com/as4378/NodeJS/blob/master/public/css/WeatherHome.PNG)
 
+![Home Page](https://github.com/as4378/NodeJS/blob/master/public/css/Mid.PNG)
+
 ![Result](https://github.com/as4378/NodeJS/blob/master/public/css/Result.PNG)
 
 
